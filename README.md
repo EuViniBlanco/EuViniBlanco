@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! Meu nome é Vinícius 🖖
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40viniciusblanco-blue)](https://www.linkedin.com/in/viniciusblanco/)
 
 <!--
 **EuViniBlanco/EuViniBlanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
